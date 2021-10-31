@@ -1,9 +1,9 @@
 **Local Setup**
 ---
 *Requirements:- Python 3.8+*<br>
-1) `git clone https://github.com/amanpandey-crypto/LostFound`
+1) `git clone https://github.com/amanpandey-crypto/DjangoShop`
 (For Contrituber: Use your Forked URL)
-2) `cd digi-connect`
+2) `cd DjangoShop`
 3) `python -m venv env`
 4) `source env/bin/activate` (Mac/Linux)<br>
    `env/Scripts/activate.ps1` (Windows-Powershell)
